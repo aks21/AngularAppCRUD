@@ -1,0 +1,37 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "id": "199",
+      "firstName": "Nancy",
+      "lastName": "Gladdis",
+      "email": "ngladdis5i@posterous.com",
+      "dob": "2001-11-15T10:33:48Z",
+      "gender": "Female",
+      "education": "Graduate",
+      "company": "Flashpoint",
+      "experience": 20,
+      "package": 17
+    },
+    {
+      "id": "5051",
+      "firstName": "ggffhf"
+    }
+  ]
+}
