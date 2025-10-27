@@ -77,12 +77,6 @@ Using JSON Server for local REST API simulation
 
 📸 Screenshots
 
-(Optional — you can add screenshots of your UI here)
 
-![App Screenshot](./src/assets/screenshot.png)
-
-💬 Feedback
-
-If you find this project helpful or have suggestions for improvement, feel free to open an issue or contribute via pull request!
-
-⭐ Don’t forget to star this repo if you like it!
+![App Screenshot](screenshot1.png)
+![App Screenshot](screenshot2.png)
