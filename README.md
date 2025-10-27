@@ -1,8 +1,8 @@
-🅰️ AngularAppCRUD
+# 🅰️ AngularAppCRUD
 
 A simple CRUD (Create, Read, Update, Delete) application built with Angular and a mock REST API using JSON Server. This project demonstrates core Angular concepts such as components, services, routing, forms, and HTTP client integration.
 
-📋 Features
+## 📋 Features
 
 ✅ Create new employee records
 ✅ View a list of employees
@@ -11,7 +11,7 @@ A simple CRUD (Create, Read, Update, Delete) application built with Angular and 
 ✅ Uses JSON Server as a mock backend
 ✅ Proxy configuration for seamless API communication
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Frontend: Angular
 
@@ -21,32 +21,32 @@ Language: TypeScript
 
 Package Manager: npm
 
-⚙️ Setup Instructions
-1️⃣ Clone the Repository
+## ⚙️ Setup Instructions
+### 1️⃣ Clone the Repository
 git clone https://github.com/your-username/AngularAppCRUD.git
 cd AngularAppCRUD
 
-2️⃣ Install Dependencies
+### 2️⃣ Install Dependencies
 npm install
 
-3️⃣ Start JSON Server
+### 3️⃣ Start JSON Server
 
 Run the mock API server:
 
 npx json-server --watch db.json --port 4000
 
-4️⃣ Run the Angular Application
+### 4️⃣ Run the Angular Application
 
 Start the app with proxy configuration enabled:
 
 ng serve --proxy-config proxy.conf.json
 
-5️⃣ Open in Browser
+### 5️⃣ Open in Browser
 
-Visit:
+## Visit:
 👉 http://localhost:4200
 
-📁 Project Structure
+## 📁 Project Structure
 AngularAppCRUD/
 ├── src/
 │   ├── app/
@@ -61,7 +61,7 @@ AngularAppCRUD/
 ├── package.json
 └── README.md
 
-🧠 Learnings
+## 🧠 Learnings
 
 This project helps understand:
 
@@ -75,8 +75,7 @@ Implementing forms and validation
 
 Using JSON Server for local REST API simulation
 
-📸 Screenshots
+## 📸 Screenshots  
 
-
-![App Screenshot](screenshot1.png)
-![App Screenshot](screenshot2.png)
+![App Screenshot](https://github.com/aks21/AngularAppCRUD/blob/03e096806a4b4f4d8a5906c98104922d4e0b54cb/Screenshot1.png)
+![App Screenshot](https://github.com/aks21/AngularAppCRUD/blob/03e096806a4b4f4d8a5906c98104922d4e0b54cb/Screenshot2.png)
