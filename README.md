@@ -79,4 +79,5 @@ Using JSON Server for local REST API simulation
 
 ![App Screenshot](https://github.com/aks21/AngularAppCRUD/blob/03e096806a4b4f4d8a5906c98104922d4e0b54cb/Screenshot1.png)
 ![App Screenshot](https://github.com/aks21/AngularAppCRUD/blob/03e096806a4b4f4d8a5906c98104922d4e0b54cb/Screenshot2.png)
-![App Screenshot](https://github.com/aks21/AngularAppCRUD/blob/03e096806a4b4f4d8a5906c98104922d4e0b54cb/Screenshot3.png)
+![App Screenshot](https://github.com/aks21/AngularAppCRUD/blob/e81aa6bb4f8536b3dd3393fe9331d7d13b8c4db6/Screenshot3.png)
+
