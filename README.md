@@ -23,15 +23,19 @@ Package Manager: npm
 
 ## ⚙️ Setup Instructions
 ### 1️⃣ Clone the Repository
+
 git clone https://github.com/your-username/AngularAppCRUD.git
+
 cd AngularAppCRUD
 
 ### 2️⃣ Install Dependencies
+
 npm install
 
 ### 3️⃣ Start JSON Server
 
 Run the mock API server:
+
 
 npx json-server --watch db.json --port 4000
 
@@ -44,22 +48,8 @@ ng serve --proxy-config proxy.conf.json
 ### 5️⃣ Open in Browser
 
 ## Visit:
-👉 http://localhost:4200
 
-## 📁 Project Structure
-AngularAppCRUD/
-├── src/
-│   ├── app/
-│   │   ├── components/
-│   │   ├── services/
-│   │   ├── models/
-│   │   └── app.module.ts
-│   ├── assets/
-│   └── environments/
-├── db.json
-├── proxy.conf.json
-├── package.json
-└── README.md
+👉 http://localhost:4200
 
 ## 🧠 Learnings
 
